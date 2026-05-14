@@ -1,0 +1,46 @@
+---
+title: "Роман Яценко"
+about:
+  template: trestles
+  image: images/avatar.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/roman-yatsenko
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yatsenkorm
+    - icon: telegram
+      text: Telegram
+      href: https://t.me/YaRo_Kharkiv
+    - icon: envelope
+      text: Email
+      href: mailto:roman.yatsenko@hneu.net
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/profile.php?id=61576990610124
+---
+
+## К.е.н., доцент | Директор ННІ ІТ ХНЕУ
+
+Директор [Навчально-наукового інституту інформаційних технологій ХНЕУ ім. С. Кузнеця](https://it.hneu.edu.ua/), доцент кафедри [економічної кібернетики і системного аналізу](https://ek.hneu.edu.ua/), технічний керівник проєкту [«Єдиний кабінет ХНЕУ ім. С. Кузнеця»](https://cabinet.hneu.edu.ua/).
+
+---
+
+::: {.activity-card}
+### 🎓 Освіта
+
+Розробка цифрових освітніх екосистем університету, e-learning, підтримка безперервності вищої освіти в умовах воєнного стану та дистанційного навчання.
+:::
+
+::: {.activity-card}
+### 💻 Розробка
+
+Веброзробка на Python/Django, інформаційні системи для закладів вищої освіти, агентний AI development на основі сучасних фреймворків.
+:::
+
+::: {.activity-card}
+### 🔬 Наука
+
+Моделі адаптивного управління навчальним процесом, IT в управлінні, машинне навчання в економіці, відкриті освітні ресурси та цифрова інклюзивність.
+:::

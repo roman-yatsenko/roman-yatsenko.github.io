@@ -1,0 +1,53 @@
+---
+title: "Досвід та освіта"
+---
+
+## Досвід роботи
+
+| Роки | Посада | Місце |
+|------|--------|-------|
+| 2024 — тепер | Директор Навчально-наукового інституту інформаційних технологій | [ХНЕУ ім. С. Кузнеця](https://it.hneu.edu.ua/) |
+| — тепер | Доцент кафедри економічної кібернетики і системного аналізу | [ХНЕУ ім. С. Кузнеця](https://ek.hneu.edu.ua/) |
+
+> Детальний перелік посад: [сторінка викладача](https://ek.hneu.edu.ua/vykladachi/yatsenko-roman-mykolajovych/)
+
+---
+
+## Освіта
+
+- **Кандидат економічних наук (к.е.н.)** — ХНЕУ ім. С. Кузнеця
+- Детальніше: [сторінка на сайті кафедри](https://ek.hneu.edu.ua/vykladachi/yatsenko-roman-mykolajovych/)
+
+---
+
+## Підвищення кваліфікації та сертифікати
+
+| Рік | Заклад / Організація | Програма |
+|-----|---------------------|----------|
+| 2007 | Міжгалузевий інститут ПК ХНЕУ | «Використання ППП Statistica» |
+| 2013 | Регіональний інститут безперервної освіти ПНДУ | «Математичні моделі в економіці» |
+| 2013 | Компанія Prognoz | «Математичні моделі в економіці та їх комп'ютерна реалізація» |
+| 2016 | Prometheus | «Як створити масовий відкритий онлайн-курс» |
+| 2018 | ХНЕУ | «Розвиток комунікативної компетентності НПП» — [сертифікат](https://drive.google.com/file/d/1Lk2Ns9T2mZgs1AJpfPxM56r9gBVSRxBd/view?usp=drive_link) |
+| 2021 | IBM / Coursera | «Fundamentals of Scalable Data Science» — [сертифікат](https://drive.google.com/file/d/1LPLoO4_C0au076ZlZsiOycPFd1XHvohX/view?usp=drive_link) |
+| 2021 | IBM / Coursera | «Advanced Machine Learning and Signal Processing» — [сертифікат](https://drive.google.com/file/d/1t7YdOFRZKG8cZdxW-jfmylDUFAP7fSHJ/view?usp=drive_link) |
+| 2021 | IBM / Coursera | «Applied AI with DeepLearning» — [сертифікат](https://drive.google.com/file/d/16FOiua7aqPqYwFFv9Kb3RMFyZf3H7Q0x/view?usp=drive_link) |
+| 2022 | HVD Hotels (Bulgaria, Varna) | «Development of multimedia technologies for international networks support: European experience» — [сертифікат](https://ek.hneu.edu.ua/wp-content/uploads/2024/02/Roman-YATSENKO_2022_rotated.pdf) |
+| 2022 | Genesis (Київ) | «Створення та розвиток IT-продуктів» — [сертифікат](https://drive.google.com/file/d/1pME5BuMcImYMMj-I5bPFgzu7epujv7GW/view?usp=drive_link) |
+| 2022 | ХНЕУ | «Академічна доброчесність: практика застосування» — [сертифікат](https://drive.google.com/file/d/1ddZE2kUDbnSSqsdOgoIxStHDqHbVz9jt/view?usp=drive_link) |
+| 2022 | — | «Основи Web UI розробки 2022» — [сертифікат](https://drive.google.com/file/d/1NDAKqoBfURuGI7YoUA0LSfD-b-suhQ37/view?usp=drive_link) |
+
+---
+
+## Нагороди та відзнаки
+
+| Рік | Відзнака |
+|-----|---------|
+| 2009 | Переможець IV обласного конкурсу «Найкращий молодий науковець Харківщини» (суспільно-економічні науки) |
+| 2017 | Почесна грамота Департаменту освіти Харківської міської ради |
+| 2018 | Подяка Міністерства освіти і науки України |
+| 2019 | Почесна Грамота Адміністрації Шевченківського району Харківської міської Ради |
+| 2021 | Грамота МОН України |
+| 2021 | Подяка Харківського міського голови |
+| 2023 | Почесна грамота МОН України |
+| 2024 | Почесна грамота Харківської міської ради |

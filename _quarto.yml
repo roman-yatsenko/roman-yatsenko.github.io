@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Роман Яценко"
+  favicon: images/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Про мене
+      - href: experience.qmd
+        text: Досвід
+      - href: teaching.qmd
+        text: Викладання
+      - href: projects.qmd
+        text: Проєкти
+      - href: science.qmd
+        text: Наука
+      - href: contacts.qmd
+        text: Контакти
+    right:
+      - icon: github
+        href: https://github.com/roman-yatsenko
+      - icon: linkedin
+        href: https://linkedin.com/in/yatsenkorm
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61576990610124
+
+format:
+  html:
+    theme: [flatly, styles.scss]
+    toc: false
+    lang: uk

@@ -1,0 +1,42 @@
+/*-- scss:defaults --*/
+// Акцентний IT-колір та монопросторовий шрифт для коду/тегів
+$primary: #0d6efd;
+$font-family-monospace: 'JetBrains Mono', 'Fira Code', monospace;
+
+/*-- scss:rules --*/
+
+// Картки для блоків напрямів діяльності
+.activity-card {
+  border-left: 4px solid $primary;
+  padding: 1rem 1.5rem;
+  margin-bottom: 1rem;
+  background: rgba($primary, 0.04);
+  border-radius: 0 8px 8px 0;
+}
+
+// Виділення головного проєкту
+.featured-project {
+  border: 2px solid $primary;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+// Бейджі наукових профілів
+.science-badges {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+}
+
+// Таблиці
+.table-responsive {
+  margin-bottom: 1.5rem;
+}
+
+// Navbar brand
+.navbar-brand {
+  font-weight: 700;
+  font-size: 1.1rem;
+}

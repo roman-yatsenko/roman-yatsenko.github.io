@@ -1,0 +1,23 @@
+---
+title: "Контакти"
+---
+
+## Зв'язатися зі мною
+
+| Канал | Посилання |
+|-------|-----------|
+| 📧 Email | [roman.yatsenko@hneu.net](mailto:roman.yatsenko@hneu.net) |
+| ✈️ Telegram | [@YaRo_Kharkiv](https://t.me/YaRo_Kharkiv) |
+| 💼 LinkedIn | [linkedin.com/in/yatsenkorm](https://linkedin.com/in/yatsenkorm) |
+| 🐙 GitHub | [github.com/roman-yatsenko](https://github.com/roman-yatsenko) |
+| 📘 Facebook | [Роман Яценко](https://www.facebook.com/profile.php?id=61576990610124) |
+
+---
+
+## Місце роботи
+
+**[ХНЕУ ім. С. Кузнеця](https://hneu.edu.ua/)**  
+Навчально-науковий інститут інформаційних технологій  
+пр. Науки 9-А, Харків, 61166, Україна
+
+[Сайт ННІ ІТ →](https://it.hneu.edu.ua/)
