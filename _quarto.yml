@@ -8,6 +8,9 @@ website:
   title: "Роман Яценко"
   favicon: images/favicon.ico
   navbar:
+    logo: images/logo.svg
+    logo-alt: "RY"
+    title: false
     left:
       - href: index.qmd
         text: Про мене
@@ -28,6 +31,15 @@ website:
         href: https://linkedin.com/in/yatsenkorm
       - icon: facebook
         href: https://www.facebook.com/profile.php?id=61576990610124
+  page-footer:
+    left: |
+      **Роман Яценко** &nbsp;·&nbsp; к.е.н., доцент <br>
+      [roman.yatsenko@hneu.net](mailto:roman.yatsenko@hneu.net) &nbsp;·&nbsp; [Telegram](https://t.me/YaRo_Kharkiv) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yatsenkorm)
+    center: |
+      © 2026 Роман Яценко
+    right: |
+      Зроблено з ❤️ та [Quarto](https://quarto.org) —  
+      *де наука зустрічається з кодом*
 
 format:
   html:
