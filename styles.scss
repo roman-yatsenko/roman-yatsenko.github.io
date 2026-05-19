@@ -5,6 +5,17 @@ $font-family-monospace: 'JetBrains Mono', 'Fira Code', monospace;
 
 /*-- scss:rules --*/
 
+// Посилання — блакитний колір, без підкреслення
+a {
+  color: #0d6efd;
+  text-decoration: none;
+
+  &:hover {
+    color: #0a58ca;
+    text-decoration: underline;
+  }
+}
+
 // Картки для блоків напрямів діяльності
 .activity-card {
   border-left: 4px solid $primary;
