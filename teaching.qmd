@@ -13,7 +13,7 @@ title: "Навчальна діяльність"
 
 Охоплює основи алгоритмізації та програмування, об'єктно-орієнтований підхід, прикладне застосування Python у вирішенні реальних задач. Викладається для 1-го курсу спеціальностей F4, F5, F6.
 
-[Перейти до курсу <i class="bi bi-box-arrow-up-right"></i>](https://pns.hneu.edu.ua/course/view.php?id=8027){target="_blank" rel="noopener"}
+[Перейти до курсу на сайті ПНС ХНЕУ ім.&nbsp;С.&nbsp;Кузнеця <i class="bi bi-box-arrow-up-right"></i>](https://pns.hneu.edu.ua/course/view.php?id=8027){target="_blank" rel="noopener"}
 :::
 
 ---

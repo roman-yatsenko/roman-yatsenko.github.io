@@ -2,10 +2,21 @@
 title: "Проєкти"
 ---
 
-## Головний проєкт
+<ul class="project-list" style="list-style:none; padding-left:0;">
+  <li><img src="https://cabinet.hneu.edu.ua/static/img/logo.png" style="height:16px; vertical-align:middle; margin-right:6px;"> [Єдиний кабінет ХНЕУ ім. С. Кузнеця](#cabinet)</li>
+  <li><img src="https://www.google.com/s2/favicons?domain=pns.hneu.edu.ua&sz=16" style="vertical-align:middle; margin-right:6px;"> [Сайт ПНС ХНЕУ ім. С. Кузнеця](#pns)</li>
+  <li><img src="images/digiuni-icon.svg" style="height:16px; vertical-align:middle; margin-right:6px;"> [DigiUni](#digiuni)</li>
+  <li><img src="https://www.google.com/s2/favicons?domain=unitwin.lpnu.ua&sz=16" style="vertical-align:middle; margin-right:6px;"> [UniTwin](#unitwin)</li>
+  <li><img src="https://www.google.com/s2/favicons?domain=afid.knute.edu.ua&sz=16" style="vertical-align:middle; margin-right:6px;"> [AFID](#afid)</li>
+  <li><img src="https://raw.githubusercontent.com/roman-yatsenko/MarkHub/develop/static/img/icon.png" style="height:16px; vertical-align:middle; margin-right:6px;"> [MarkHub](#markhub)</li>
+</ul>
+
+---
+
+## Основний проєкт
 
 ::: {.featured-project}
-### [Єдиний кабінет ХНЕУ ім. С. Кузнеця](https://cabinet.hneu.edu.ua/)
+### <img src="https://cabinet.hneu.edu.ua/static/img/logo.png" style="height:16px; vertical-align:middle; margin-right:5px;"> [Єдиний кабінет ХНЕУ ім. С. Кузнеця](https://cabinet.hneu.edu.ua/) {#cabinet}
 
 **Роль:** Технічний керівник проєкту
 
@@ -14,8 +25,8 @@ title: "Проєкти"
 **Призначення:**
 
 - Персоналізовані інформаційні сервіси для всіх учасників освітнього процесу
-- Інтеграція КІС та ПНС (Moodle) в єдиному середовищі
-- Додаткова функціональність поверх існуючих систем університету
+- Інтеграція КІС та сайту ПНС (Moodle) в єдиному середовищі
+- Функціональність автоматизації освітнього процесу, що відсутня в інших інформаційних системах університету
 
 **Підсистеми:**
 
@@ -32,21 +43,34 @@ title: "Проєкти"
 | База даних | MySQL |
 | Тестування | Django TestCase, Selenium |
 | Документація | MkDocs |
-
-> **Інновація:** У проєкті започатковано використання **агентного AI development** на основі фреймворку [OpenSpec](https://github.com/Fission-AI/OpenSpec).
+| 💡 AI-розробка | [OpenSpec](https://github.com/Fission-AI/OpenSpec){target="_blank" rel="noopener"} (агентний AI development) |
 :::
 
 ---
 
 ## Інші проєкти
 
-### [Сайт ПНС ХНЕУ ім. С. Кузнеця](https://pns.hneu.edu.ua/)
+### <img src="https://www.google.com/s2/favicons?domain=pns.hneu.edu.ua&sz=16" style="vertical-align:middle; margin-right:5px;"> [Сайт ПНС ХНЕУ ім. С. Кузнеця](https://pns.hneu.edu.ua/) {#pns}
 
-Компетенції у Moodle: розробка, адміністрування та розвиток платформи персональних навчальних систем університету.
+Виконання функцій керівника сайту Персональних навчальних систем ХНЕУ ім.&nbsp;С.&nbsp;Кузнеця з 2016 по 2024 роки, наразі - куратор проєкту. 
+
+Розроблено на основі LMS Moodle, використовується в освітньому процесі університету з 2009 року. Починаючи з 2016 р. функціональність платформи Moodle була розширена шляхом всебічного налаштування під вимоги освітнього процесу в університеті, розроблення власної адаптивної до мобільних пристроїв теми оформлення, додавання додаткових видів інтерактивних завдань, мобільного застосунку та Telegram-боту для швидкої комунікації учасників освітнього процесу. До послуг користувачів сайту Персональних навчальних систем діє Служба підтримки, що включає онлайн-консультанта та [Базу знань діджиталізації освітнього процесу в ХНЕУ ім. С. Кузнеця](https://pns.hneu.edu.ua/help).
+
+Компетенції у Moodle: повний цикл адміністрування платформи та розробки електронних курсів.
 
 ---
 
-### [UniTwin](https://unitwin.lpnu.ua/en)
+### <img src="images/digiuni-icon.svg" style="height:16px; vertical-align:middle; margin-right:5px;"> [DigiUni](https://digiuni.org/uk) {#digiuni}
+
+Участь у проєкті Erasmus+ KA2 **«Цифровий університет — відкрита українська ініціатива»** (DigiUni), 2023–2027.
+
+Мета — створення відкритої, інтегрованої та інклюзивної цифрової освітньої екосистеми для українських університетів як відповідь на виклики, спричинені збройною агресією рф. Проєкт використовує досвід провідних європейських університетів у розробці цифрових рішень та сприяє українсько-європейській академічній співпраці.
+
+**Партнери:** КНУ ім. Тараса Шевченка (координатор), НаУКМА, СумДУ, ХНЕУ, ЧНУ, УКУ, ХДУ, МДУ, ЛНУ ім. Івана Франка, НТУ «ХПІ», МОН України, Університет Фрідріха Александера (Ерланген-Нюрнберг), Університет Масарика (Чехія), Кельнський університет, Університет Адама Міцкевича (Польща), Університет Луї Пастера (Франція), Університет Аліканте (Іспанія) та ін.
+
+---
+
+### <img src="https://www.google.com/s2/favicons?domain=unitwin.lpnu.ua&sz=16" style="vertical-align:middle; margin-right:5px;"> [UniTwin](https://unitwin.lpnu.ua/en) {#unitwin}
 
 Участь у проєкті Erasmus+ KA2 **«University Infrastructure for Workforce Development focusing on Twin Transition»** (Green. Digital. Inclusive.), №101236638.
 
@@ -54,4 +78,24 @@ title: "Проєкти"
 
 ---
 
-> Додаткові проєкти — на [LinkedIn / Projects](https://www.linkedin.com/in/yatsenkorm/details/projects/)
+### <img src="https://www.google.com/s2/favicons?domain=afid.knute.edu.ua&sz=16" style="vertical-align:middle; margin-right:5px;"> [AFID](https://afid.knute.edu.ua/) {#afid}
+
+Участь у проєкті Erasmus+ KA2 **«Providing of Academic Freedom and Inclusion through Digitalization»** (AFID), 2023–2026.
+
+Проєкт спрямований на забезпечення академічної свободи та інклюзивності в університетах через цифровізацію освітнього середовища. Результатом проєкту є [Віртуальний кампус](https://vic.hneu.edu.ua/) — відкрита інклюзивна платформа для підтримки освітнього процесу.
+
+**Партнери:** КНТЕУ (координатор), KTH Royal Institute of Technology (Швеція), Університет Алькала (Іспанія), Técnico Lisboa (Португалія), ЛНУ «Львівська Політехніка», ХНЕУ, НГУ.
+
+---
+
+## Pet-проєкт
+
+### <img src="https://raw.githubusercontent.com/roman-yatsenko/MarkHub/develop/static/img/icon.png" style="height:16px; vertical-align:middle; margin-right:5px;"> [MarkHub](https://github.com/roman-yatsenko/MarkHub) {#markhub}
+
+Особистий проєкт — веб-сервіс для розробки Markdown-контенту безпосередньо у GitHub-репозиторіях. Дозволяє переглядати та редагувати `.md`-файли через зручний онлайн-інтерфейс з рендерингом та підтримкою OAuth через GitHub.
+
+**Стек:** Python, Django, HTML/CSS, JavaScript. Ліцензія: AGPL-3.0.
+
+---
+
+> Більше на [LinkedIn / Projects](https://www.linkedin.com/in/yatsenkorm/details/projects/)
