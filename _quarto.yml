@@ -17,7 +17,7 @@ website:
       - href: experience.qmd
         text: Досвід
       - href: teaching.qmd
-        text: Викладання
+        text: Дисципліни
       - href: projects.qmd
         text: Проєкти
       - href: science.qmd
