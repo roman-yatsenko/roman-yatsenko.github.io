@@ -2,7 +2,7 @@
 title: "Список публікацій"
 ---
 
-Загальна кількість публікацій — **131**: наукових — 84 (зокрема 13 монографій); навчально-методичних — 47 (з них 5 навчальних посібників, 2 з грифом МОН).
+Загальна кількість публікацій — **130**: наукових — 83 (зокрема 13 колективних монографій); навчально-методичних — 47 (з них 5 навчальних посібників, 2 з грифом МОН).
 
 Наукові профілі: [Google Академія](https://scholar.google.com.ua/citations?hl=uk&user=IS9XHAQAAAAJ) | [ORCID](https://orcid.org/0000-0001-7968-6890) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57218566711)
 
@@ -77,6 +77,7 @@ title: "Список публікацій"
 1. [Святаш Д.В., Яценко Р.М. Комплексна модель рейтингу електронних курсів в системі Moodle // Матеріали XII МНК «Сучасні проблеми моделювання соціально-економічних систем». – Братислава – Харків: ХНЕУ ім. С. Кузнеця, 2020.](http://mpsesm.org/book/2020/thesis05-900.html#thesis05-900)
 1. [Yatsenko R. Cloud online WYSIWYM-editor for the educational content development // Матеріали XII МНК «Сучасні проблеми моделювання соціально-економічних систем». – Братислава – Харків: ХНЕУ ім. С. Кузнеця, 2020.](http://mpsesm.org/book/2020/thesis04-yaro.html#thesis04-yaro)
 1. [Lidiya Guryanova, Roman Yatsenko, Nadija Dubrovina, Vitalina Babenko. Machine Learning Methods and Models, Predictive Analytics and Applications // Proceedings MPSESM-W 2020, Kharkiv, Ukraine, June 25, 2020, CEUR-WS.org.](http://ceur-ws.org/Vol-2649/paper1.pdf)
+1. Яценко Р.М., Святаш Д.В. Комплекс моделей управління якістю персональних навчальних систем в ХНЕУ ім. С. Кузнеця // XIV Міжнародна науково-практична конференція магістрантів та аспірантів «Теоретичні та практичні дослідження молодих науковців» (01-04 грудня 2020 року): матеріали конференції / за ред. проф. Є.І. Сокола. – Харків: НТУ «ХПІ», 2020. – С. 241–242.
 1. [Яковлєв А.А., Яценко Р.М. Застосування моделей машинного навчання до оцінки фінансової стійкості комерційних банків // Матеріали XIII МНК «Сучасні проблеми моделювання соціально-економічних систем». – Братислава – Харків: ХНЕУ ім. С. Кузнеця, 2021.](https://mpsesm.org/book/2021/thesis04-yaro.html#thesis04-yaro)
 1. [Lidiya Guryanova, Roman Yatsenko, Nadija Dubrovina, Vitalina Babenko, Vitalii Gvozditskyi. Machine Learning Methods and Models, Predictive Analytics and Applications: Development Trends in the Post-crisis Syndrome Caused by COVID-19 // Proceedings MPSESM-W 2021, Kharkiv, April 9, 2021, CEUR-WS.org.](http://ceur-ws.org/Vol-2927/paper1.pdf)
 1. [Lidiya Guryanova, Roman Yatsenko, Vladyslav Zarzhetskyi, Iryna Lytovchenko. Set of Models for Assessing Knowledge in Distance Learning Systems // Proceedings MPSESM-W 2021, Kharkiv, April 9, 2021, CEUR-WS.org.](http://ceur-ws.org/Vol-2927/paper6.pdf)
