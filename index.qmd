@@ -21,6 +21,24 @@ about:
       href: https://www.facebook.com/profile.php?id=61576990610124
 ---
 
+::: {.sidebar-quote}
+«Людина цінна, коли її слова збігаються з її діями»
+
+О. Уайльд
+:::
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var quote = document.querySelector('.sidebar-quote');
+  var links = document.querySelector('.about-links');
+  if (quote && links) {
+    links.after(quote);
+  }
+});
+</script>
+```
+
 ## Директор ННІ ІТ ХНЕУ ім.&nbsp;С.&nbsp;Кузнеця | К.е.н., доцент
 
 Директор [Навчально-наукового інституту інформаційних технологій ХНЕУ ім. С. Кузнеця](https://it.hneu.edu.ua/), доцент кафедри [економічної кібернетики і системного аналізу](https://ek.hneu.edu.ua/), технічний керівник проєкту [«Єдиний кабінет ХНЕУ ім. С. Кузнеця»](projects.qmd).
