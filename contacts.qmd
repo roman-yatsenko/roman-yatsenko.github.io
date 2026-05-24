@@ -6,11 +6,11 @@ title: "Контакти"
 
 | Канал | Посилання |
 |-------|-----------|
-| 📧 Email | [roman.yatsenko@hneu.net](mailto:roman.yatsenko@hneu.net) |
-| ✈️ Telegram | [@YaRo_Kharkiv](https://t.me/YaRo_Kharkiv) |
-| 💼 LinkedIn | [linkedin.com/in/yatsenkorm](https://linkedin.com/in/yatsenkorm) |
-| 🐙 GitHub | [github.com/roman-yatsenko](https://github.com/roman-yatsenko) |
-| 📘 Facebook | [Роман Яценко](https://www.facebook.com/profile.php?id=61576990610124) |
+| <i class="bi bi-envelope"></i> Email | [roman.yatsenko@hneu.net](mailto:roman.yatsenko@hneu.net) |
+| <i class="bi bi-telegram"></i> Telegram | [@YaRo_Kharkiv](https://t.me/YaRo_Kharkiv) |
+| <i class="bi bi-linkedin"></i> LinkedIn | [linkedin.com/in/yatsenkorm](https://linkedin.com/in/yatsenkorm) |
+| <i class="bi bi-github"></i> GitHub | [github.com/roman-yatsenko](https://github.com/roman-yatsenko) |
+| <i class="bi bi-facebook"></i> Facebook | [Роман Яценко](https://www.facebook.com/profile.php?id=61576990610124) |
 
 ---
 
