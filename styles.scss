@@ -46,6 +46,42 @@ a {
   margin-bottom: 1.5rem;
 }
 
+// Соціальні кнопки: завжди в рядок на всіх розширеннях
+@media (min-width: 576px) {
+  div.quarto-about-trestles .about-entity .about-links {
+    flex-flow: wrap !important;
+    width: auto !important;
+    gap: 15px 0.8em;
+    padding-bottom: 1.2em;
+  }
+  div.quarto-about-trestles .about-entity .about-link {
+    font-size: 0.8em !important;
+    padding: 0.25em 0.5em !important;
+    border-radius: 4px !important;
+  }
+}
+
+// xs (< 576px): рядок, тільки іконки без тексту
+@media (max-width: 575.98px) {
+  div.quarto-about-trestles .about-entity .about-links {
+    flex-flow: wrap !important;
+    width: auto !important;
+    gap: 8px !important;
+    padding-bottom: 1.2em;
+    justify-content: center;
+  }
+  div.quarto-about-trestles .about-entity .about-link {
+    font-size: 0 !important;
+    padding: 0.33rem 0.43rem !important;
+    border-radius: 6px !important;
+    line-height: 1 !important;
+  }
+  div.quarto-about-trestles .about-entity .about-link i.bi {
+    font-size: 1.1rem !important;
+    margin-right: 0 !important;
+  }
+}
+
 // Sidebar quote on About page
 .sidebar-quote {
   margin-top: 1.25rem;
