@@ -2,9 +2,19 @@
 
 Персональний сайт Яценка Романа
 
-## Publishing
+## Попередній перегляд
 
-Once you have configured the source branch and updated your `.gitignore`, navigate to the directory where your project / git repository is located, make sure you are not on the `gh-pages` branch, and execute the `quarto publish` command for GitHub Pages:
+Для локального перегляду сайту виконайте команду:
+
+```shell
+quarto preview
+```
+
+Сайт буде доступний за адресою `http://localhost:4200` (або іншим портом, що вказаний у виводі команди).
+
+## Публікація
+
+Після налаштування гілки `main` та оновлення `.gitignore` перейдіть до директорії проєкту / git-репозиторію, переконайтесь, що ви не знаходитесь на гілці `gh-pages`, та виконайте команду `quarto publish` для GitHub Pages:
 
 ```shell
 quarto publish gh-pages
