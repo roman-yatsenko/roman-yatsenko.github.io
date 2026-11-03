@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ## Директор ННІ ІТ ХНЕУ ім.&nbsp;С.&nbsp;Кузнеця | К.е.н., доцент
 
-Директор [Навчально-наукового інституту інформаційних технологій ХНЕУ ім. С. Кузнеця](https://it.hneu.edu.ua/), доцент кафедри [економічної кібернетики і системного аналізу](https://ek.hneu.edu.ua/), технічний керівник проєкту [«Єдиний кабінет ХНЕУ ім. С. Кузнеця»](projects.qmd).
+Директор [Навчально-наукового інституту інформаційних технологій ХНЕУ ім. С. Кузнеця](https://it.hneu.edu.ua/), доцент кафедри [інтелектуальних систем управління](https://isu.hneu.edu.ua/), технічний керівник проєкту [«Єдиний кабінет ХНЕУ ім. С. Кузнеця»](projects.qmd).
 
 ---
 
@@ -63,3 +63,12 @@ document.addEventListener('DOMContentLoaded', function () {
 Веброзробка на Python/Django, інформаційні системи для закладів вищої освіти, Moodle, агентний AI-development.
 :::
 
+```{=html}
+<script
+  src="https://cdn.shukai.ai/widget.js"
+  data-key="lGi_SHey3qiFWB5E4t59j0dHcE7MZX7IjPTw_h333bQ"
+  data-code="default"
+  data-agent-base="https://agent.shukai.ai"
+  async
+></script>
+```

@@ -2,7 +2,7 @@
 title: "Навчальна діяльність"
 ---
 
-Навчальні дисципліни на [кафедрі економічної кібернетики і системного аналізу](https://ek.hneu.edu.ua/vykladachi/yatsenko-roman-mykolajovych/) ХНЕУ ім. С. Кузнеця.
+Навчальні дисципліни на [кафедрі інтелектуальних систем управління](https://isu.hneu.edu.ua/vykladachi/yatsenko-roman-mykolajovych/) ХНЕУ ім. С. Кузнеця.
 
 ---
 
