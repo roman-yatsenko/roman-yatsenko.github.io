@@ -46,3 +46,4 @@ format:
     theme: [flatly, styles.scss]
     toc: false
     lang: uk
+    include-after-body: _includes/shukai-widget.html
